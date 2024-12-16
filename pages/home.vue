@@ -2,7 +2,7 @@
  <b-div ratio="16x9">
   <LMap
    :zoom="10"
-   :center="[35.681236, 139.767125]"
+   :center="center"
    :use-global-leaflet="false"
   >
    <LTileLayer
@@ -225,3 +225,9 @@ caption {
  z-index: 0 !important;
 }
 </style>
+
+<script setup> 
+
+const center = ref([100,100]) 
+
+</script> 
