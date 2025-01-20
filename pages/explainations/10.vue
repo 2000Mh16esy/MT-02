@@ -1,6 +1,6 @@
 <template>
  <b-img
-  src="sule.jpg"
+  src="htilominlo.jpg"
   fluid
   relative-width="100"
   alt="Responsive image"

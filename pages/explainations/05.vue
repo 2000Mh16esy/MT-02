@@ -1,6 +1,6 @@
 <template>
  <b-img
-  src="sule.jpg"
+  src="inlegarden.jpg"
   fluid
   relative-width="100"
   alt="Responsive image"
