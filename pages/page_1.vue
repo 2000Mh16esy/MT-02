@@ -1,41 +1,90 @@
 <template>
  <b-img
-  src="undraw_Traveling_yhxq.png"
+  src="sule.jpg"
   fluid
   relative-width="100"
   alt="Responsive image"
  />
 
   <b-img
-  src="undraw_Traveling_yhxq.png"
+  src="popa.webp"
   fluid
   relative-width="100"
   alt="Responsive image"
  />
 
   <b-img
-  src="undraw_Traveling_yhxq.png"
+  src="shwedagon.jpg"
   fluid
   relative-width="100"
   alt="Responsive image"
  />
 
   <b-img
-  src="undraw_Traveling_yhxq.png"
+  src="bgpalace.jpg"
   fluid
   relative-width="100"
   alt="Responsive image"
  />
 
   <b-img
-  src="undraw_Traveling_yhxq.png"
+  src="inlegarden.jpg"
   fluid
   relative-width="100"
   alt="Responsive image"
  />
 
   <b-img
-  src="undraw_Traveling_yhxq.png"
+  src="mwetaw.jpg"
+  fluid
+  relative-width="100"
+  alt="Responsive image"
+ />
+
+ <b-img
+  src="mandalay.jpg"
+  fluid
+  relative-width="100"
+  alt="Responsive image"
+ />
+
+ <b-img
+  src="mergui.jpg"
+  fluid
+  relative-width="100"
+  alt="Responsive image"
+ />
+
+ <b-img
+  src="mingun.jpg"
+  fluid
+  relative-width="100"
+  alt="Responsive image"
+ />
+
+ <b-img
+  src="htilominlo.jpg"
+  fluid
+  relative-width="100"
+  alt="Responsive image"
+ />
+
+ <b-img
+  src="ananda.jpg"
+  fluid
+  relative-width="100"
+  alt="Responsive image"
+ />
+
+ <b-img
+  src="damayangyi.jpg"
+  fluid
+  relative-width="100"
+  alt="Responsive image"
+ />
+
+ <b-img
+  src="shwezigon.jpg"
   fluid
   relative-width="100"
   alt="Responsive image"
