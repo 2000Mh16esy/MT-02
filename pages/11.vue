@@ -1,6 +1,12 @@
 <template>
+<div>
+ <h1></h1> 
+ <p>
+</p>
+</div>
+
  <b-img
-  src="popa.webp"
+  src="ananda.jpg"
   fluid
   relative-width="100"
   alt="Responsive image"

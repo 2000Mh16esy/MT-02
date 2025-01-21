@@ -43,7 +43,7 @@
     </b-th>
     <b-td>Sule Pagoda</b-td>
     <b-td>Yangon</b-td>
-    <b-td ><a href="01">photo</a></b-td>
+    <b-td ><a href="01">see more</a></b-td>
    </b-tr>
 
    <b-tr>
@@ -52,7 +52,7 @@
     </b-th>
     <b-td>Mount Popa</b-td>
     <b-td>Pegu</b-td>
-    <b-td ><a href="02">photo</a></b-td>
+    <b-td ><a href="02">see more</a></b-td>
    </b-tr>
 
     <b-tr>
@@ -61,7 +61,7 @@
     </b-th>
     <b-td>Shwedagon Pagoda</b-td>
     <b-td>Yangon</b-td>
-    <b-td ><a href="03">photo</a></b-td>
+    <b-td ><a href="03">see more</a></b-td>
    </b-tr>
 
 
@@ -71,7 +71,7 @@
     </b-th>
     <b-td>Bagan Golden Palace</b-td>
     <b-td>Bagan</b-td>
-    <b-td ><a href="04">photo</a></b-td>
+    <b-td ><a href="04">see more</a></b-td>
    </b-tr>
 
 
@@ -81,7 +81,7 @@
     </b-th>
     <b-td>Inle Floating Gardens</b-td>
     <b-td>Inle</b-td>
-    <b-td ><a href="05">photo</a></b-td>
+    <b-td ><a href="05">see more</a></b-td>
    </b-tr>
 
 
@@ -91,7 +91,7 @@
     </b-th>
     <b-td>Mwe Taw Kakku Pagodas</b-td>
     <b-td>Inle</b-td>
-    <b-td ><a href="06">photo</a></b-td>
+    <b-td ><a href="06">see more</a></b-td>
    </b-tr>
 
 
@@ -101,7 +101,7 @@
     </b-th>
     <b-td>Mandalay Palace</b-td>
     <b-td>Mandalay</b-td>
-    <b-td ><a href="07">photo</a></b-td>
+    <b-td ><a href="07">see more</a></b-td>
    </b-tr>
 
 
@@ -111,7 +111,7 @@
     </b-th>
     <b-td>Macleod Island</b-td>
     <b-td>Mergui</b-td>
-    <b-td ><a href="08">photo</a></b-td>
+    <b-td ><a href="08">see more</a></b-td>
    </b-tr>
 
 
@@ -121,7 +121,7 @@
     </b-th>
     <b-td>Mingun Temple</b-td>
     <b-td>Sagaing</b-td>
-    <b-td ><a href="09">photo</a></b-td>
+    <b-td ><a href="09">see more</a></b-td>
    </b-tr>
 
 
@@ -131,7 +131,7 @@
     </b-th>
     <b-td>Htilominlo Temple</b-td>
     <b-td>Bagan</b-td>
-    <b-td ><a href="10">photo</a></b-td>
+    <b-td ><a href="10">see more</a></b-td>
    </b-tr>
 
 
@@ -141,7 +141,7 @@
     </b-th>
     <b-td>Ananda Temple</b-td>
     <b-td>Bagan</b-td>
-    <b-td ><a href="11">photo</a></b-td>
+    <b-td ><a href="11">see more</a></b-td>
    </b-tr>
 
 
@@ -151,7 +151,7 @@
     </b-th>
     <b-td>Dhammayangyi Temple</b-td>
     <b-td>Bagan</b-td>
-    <b-td ><a href="12">photo</a></b-td>
+    <b-td ><a href="12">see more</a></b-td>
    </b-tr>
 
 
@@ -161,7 +161,7 @@
     </b-th>
     <b-td>Shwezigon Pagoda</b-td>
     <b-td>Bagan</b-td>
-    <b-td ><a href="13">photo</a></b-td>
+    <b-td ><a href="13">see more</a></b-td>
    </b-tr>  
   </b-tbody>
  </b-table>

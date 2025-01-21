@@ -1,6 +1,12 @@
 <template>
+<div>
+ <h1></h1> 
+ <p>
+</p>
+</div>
+
  <b-img
-  src="damayangyi.jpg"
+  src="shwedagon.jpg"
   fluid
   relative-width="100"
   alt="Responsive image"
