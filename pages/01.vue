@@ -13,14 +13,24 @@ This is one of the most ancient places to visit in Myanmar and deserves a visit 
   alt="Responsive image"
  />
 
- <Col
-  display="grid"
-  gap="1"
-  margin="x-auto"
-  col="6"
- >
-  <b-button color="primary"><a href="home.vue"></a>
-   Home
-  </b-button>
- </Col>
+ <Card>
+  <CardImgTop
+   src="/unsplash/image/coffee/tyler-nix-WZLBfkRg-KM-unsplash.jpg"
+   alt="..."
+  />
+  <CardBody>
+   <CardTitle>Card title</CardTitle>
+   <CardText>
+    Some quick example text to build on the card title and make up the bulk
+    of the card's content.
+   </CardText>
+   <Anchor
+    to="/"
+    button
+    color="primary"
+   >
+    Go somewhere
+   </Anchor>
+  </CardBody>
+ </Card>
 </template>
