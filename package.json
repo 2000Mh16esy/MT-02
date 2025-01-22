@@ -10,6 +10,7 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@nuxtjs/leaflet": "^1.2.6",
     "ipx": "^3.0.1",
     "sass": "1.77.6",
     "usebootstrap": "^3.5.100",

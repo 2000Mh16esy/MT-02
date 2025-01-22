@@ -1,21 +1,23 @@
 <template>
- <b-div ratio="16x9">
-  <LMap
-   :zoom="10"
-   :center="center"
-   :use-global-leaflet="false"
+<LMap
+    style="height: 350px"
+    :zoom="6"
+    :center="[21.9139, 95.9560]"
+    :use-global-leaflet="false"
   >
-   <LTileLayer
-    url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-    layer-type="base"
-    name="OpenStreetMap"
-   />
-  </LMap>
- </b-div>
-  <div class="home">
-    <h1>Let's start now!!</h1>
-    <p>Explore the infamous sightseeing palces and amazing places of Myanmer(Burma)</p>
-  </div>
+    <!-- Custom Tile Layer focusing on Myanmar -->
+    <LTileLayer
+      url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+      attribution="&amp;copy; <a href=&quot;https://www.openstreetmap.org/&quot;>OpenStreetMap</a> contributors"
+      layer-type="base"
+      name="OpenStreetMap"
+    />
+</LMap>
+
+<div class="home">
+  <h1>Let's start now!!</h1>
+  <p>Explore the infamous sightseeing palces and amazing places of Myanmer(Burma)</p>
+</div>
 
 <b-table hover>
   <b-thead>

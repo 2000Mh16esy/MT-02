@@ -1,8 +1,12 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 export default defineNuxtConfig({
+    modules: [
+      '@nuxtjs/leaflet',
+      "usebootstrap", "@nuxt/eslint"
+    ],
+
   devtools: { enabled: false },
   compatibilityDate: "2024-07-03",
-  modules: ["usebootstrap", "@nuxt/eslint"],
   css: [
     "./assets/scss/custom.scss"
   ],
