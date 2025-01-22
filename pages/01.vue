@@ -6,30 +6,24 @@ Located in the heart of Yangon, the Sule Pagoda is a Burmese stupa believed to b
 
 This is one of the most ancient places to visit in Myanmar and deserves a visit for its religious importance, beautiful architecture, and holy charm.</p>
 </div>
-<b-img
-  src="sule.jpg"
-  fluid
-  relative-width="100"
-  alt="Responsive image"
- />
 
  <Card>
   <CardImgTop
-   src="/unsplash/image/coffee/tyler-nix-WZLBfkRg-KM-unsplash.jpg"
+   src="sule.jpg"
    alt="..."
   />
   <CardBody>
-   <CardTitle>Card title</CardTitle>
+   <CardTitle>Night view of Sule Pagoda</CardTitle>
    <CardText>
     Some quick example text to build on the card title and make up the bulk
     of the card's content.
    </CardText>
    <Anchor
-    to="/"
+    to="home.vue"
     button
     color="primary"
    >
-    Go somewhere
+    Home
    </Anchor>
   </CardBody>
  </Card>
