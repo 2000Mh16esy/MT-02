@@ -14,4 +14,15 @@ The construction of the pagoda started at the end of the 19th century when King 
   relative-width="100"
   alt="Responsive image"
  />
+
+ <Col
+  display="grid"
+  gap="1"
+  margin="x-auto"
+  col="6"
+ >
+  <b-button color="primary"><a href="home.vue"></a>
+   Home
+  </b-button>
+ </Col>
 </template>

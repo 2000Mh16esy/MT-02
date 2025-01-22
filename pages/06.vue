@@ -14,4 +14,15 @@ Most pagodas are made from bricks and coated with stucco and still have the hti.
   relative-width="100"
   alt="Responsive image"
  />
+
+ <Col
+  display="grid"
+  gap="1"
+  margin="x-auto"
+  col="6"
+ >
+  <b-button color="primary"><a href="home.vue"></a>
+   Home
+  </b-button>
+ </Col>
 </template>

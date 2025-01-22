@@ -14,4 +14,15 @@ The lake is a great place to witness the beautiful floating gardens, a wide rang
   relative-width="100"
   alt="Responsive image"
  />
+
+ <Col
+  display="grid"
+  gap="1"
+  margin="x-auto"
+  col="6"
+ >
+  <b-button color="primary"><a href="home.vue"></a>
+   Home
+  </b-button>
+ </Col>
 </template>

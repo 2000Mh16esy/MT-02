@@ -14,4 +14,15 @@ It is indeed a treasury of Myanmar's rich heritage, architecture, religion, and 
   relative-width="100"
   alt="Responsive image"
  />
+
+ <Col
+  display="grid"
+  gap="1"
+  margin="x-auto"
+  col="6"
+ >
+  <b-button color="primary"><a href="home.vue"></a>
+   Home
+  </b-button>
+ </Col>
 </template>

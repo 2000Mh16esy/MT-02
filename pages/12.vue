@@ -14,4 +14,15 @@ It houses images of four sead Buddha each placed on the entrance gate and beauti
   relative-width="100"
   alt="Responsive image"
  />
+
+ <Col
+  display="grid"
+  gap="1"
+  margin="x-auto"
+  col="6"
+ >
+  <b-button color="primary"><a href="home.vue"></a>
+   Home
+  </b-button>
+ </Col>
 </template>
