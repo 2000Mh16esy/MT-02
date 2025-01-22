@@ -5,7 +5,7 @@
     :center="[21.9139, 95.9560]"
     :use-global-leaflet="false"
   >
-    <!-- Custom Tile Layer focusing on Myanmar -->
+  
     <LTileLayer
       url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
       attribution="&amp;copy; <a href=&quot;https://www.openstreetmap.org/&quot;>OpenStreetMap</a> contributors"
