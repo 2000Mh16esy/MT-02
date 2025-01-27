@@ -22,6 +22,14 @@ Today a section of the citadel complex is used by the Burmese army, whereas the 
      >
       Home
      </Anchor>
+     <Anchor
+        to="/08"
+        button
+        color="primary"
+        style="margin-left: 10px;" 
+       >
+        Next Page
+       </Anchor>
     </CardBody>
    </Card>
   </template>

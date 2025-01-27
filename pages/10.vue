@@ -22,6 +22,14 @@ The Htilominlo Temple is a marvelous brick structure with white intricately carv
      >
       Home
      </Anchor>
+     <Anchor
+        to="/11"
+        button
+        color="primary"
+        style="margin-left: 10px;" 
+       >
+        Next Page
+       </Anchor>
     </CardBody>
    </Card>
   </template>

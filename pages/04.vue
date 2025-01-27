@@ -22,6 +22,14 @@ Several guided tours are available (in English as well), allowing visitors to un
    >
     Home
    </Anchor>
+   <Anchor
+        to="/05"
+        button
+        color="primary"
+        style="margin-left: 10px;" 
+       >
+        Next Page
+       </Anchor>
   </CardBody>
  </Card>
 </template>

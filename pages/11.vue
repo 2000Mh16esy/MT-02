@@ -22,6 +22,14 @@ The illuminated Ananda Pagoda at night creates a mystical appeal and is indeed a
      >
       Home
      </Anchor>
+     <Anchor
+        to="/12"
+        button
+        color="primary"
+        style="margin-left: 10px;" 
+       >
+        Next Page
+       </Anchor>
     </CardBody>
    </Card>
   </template>

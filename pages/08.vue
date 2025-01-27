@@ -22,6 +22,14 @@ It is a paradise for nature lovers as well as honeymooning couples and is home t
      >
       Home
      </Anchor>
+     <Anchor
+        to="/09"
+        button
+        color="primary"
+        style="margin-left: 10px;" 
+       >
+        Next Page
+       </Anchor>
     </CardBody>
    </Card>
   </template>

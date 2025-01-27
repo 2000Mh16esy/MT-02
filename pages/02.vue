@@ -22,6 +22,15 @@ To reach this shrine one has to climb about 777 steps but the architectural marv
    >
     Home
    </Anchor>
+
+   <Anchor
+        to="/03"
+        button
+        color="primary"
+        style="margin-left: 10px;" 
+       >
+        Next Page
+       </Anchor>
   </CardBody>
  </Card>
 </template>

@@ -22,6 +22,14 @@ It is indeed a treasury of Myanmar's rich heritage, architecture, religion, and 
    >
     Home
    </Anchor>
+   <Anchor
+        to="/04"
+        button
+        color="primary"
+        style="margin-left: 10px;" 
+       >
+        Next Page
+       </Anchor>
   </CardBody>
  </Card>
 </template>

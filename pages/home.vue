@@ -1,18 +1,19 @@
 <template>
 <LMap
-    style="height: 350px"
-    :zoom="6"
-    :center="[21.9139, 95.9560]"
-    :use-global-leaflet="false"
-  >
-  
-    <LTileLayer
-      url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-      attribution="&amp;copy; <a href=&quot;https://www.openstreetmap.org/&quot;>OpenStreetMap</a> contributors"
-      layer-type="base"
-      name="OpenStreetMap"
-    />
+  style="height: 350px"
+  :zoom="6"
+  :center="[21.9139, 95.9560]"
+  :use-global-leaflet="false"
+>
+  <LTileLayer
+    url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+    attribution="&amp;copy; <a href=&quot;https://www.openstreetmap.org/&quot;>OpenStreetMap</a> contributors"
+    layer-type="base"
+    name="OpenStreetMap"
+    :detect-retina="true"
+  />
 </LMap>
+
 
 <div class="home">
   <h1>Let's start now!!</h1>

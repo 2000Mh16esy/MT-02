@@ -22,6 +22,14 @@ It houses images of four sead Buddha each placed on the entrance gate and beauti
      >
       Home
      </Anchor>
+     <Anchor
+        to="/13"
+        button
+        color="primary"
+        style="margin-left: 10px;" 
+       >
+        Next Page
+       </Anchor>
     </CardBody>
    </Card>
   </template>

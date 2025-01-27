@@ -22,6 +22,14 @@ The construction of the pagoda started at the end of the 19th century when King 
      >
       Home
      </Anchor>
+     <Anchor
+        to="/10"
+        button
+        color="primary"
+        style="margin-left: 10px;" 
+       >
+        Next Page
+       </Anchor>
     </CardBody>
    </Card>
   </template>

@@ -22,6 +22,14 @@ The lake is a great place to witness the beautiful floating gardens, a wide rang
      >
       Home
      </Anchor>
+     <Anchor
+        to="/06"
+        button
+        color="primary"
+        style="margin-left: 10px;" 
+       >
+        Next Page
+       </Anchor>
     </CardBody>
    </Card>
   </template>

@@ -22,6 +22,14 @@ The main pagoda is a bell-shaped stupa sitting on a square base and has four lar
      >
       Home
      </Anchor>
+     <Anchor
+        to="/01"
+        button
+        color="primary"
+        style="margin-left: 10px;" 
+       >
+        Next Page
+       </Anchor>
     </CardBody>
    </Card>
   </template>

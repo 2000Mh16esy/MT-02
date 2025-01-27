@@ -22,6 +22,14 @@ This is one of the most ancient places to visit in Myanmar and deserves a visit 
    >
     Home
    </Anchor>
+   <Anchor
+        to="/02"
+        button
+        color="primary"
+        style="margin-left: 10px;" 
+       >
+        Next Page
+       </Anchor>
   </CardBody>
  </Card>
 </template>
