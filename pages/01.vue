@@ -16,7 +16,7 @@
 This is one of the most ancient places to visit in Myanmar and deserves a visit for its religious importance, beautiful architecture, and holy charm.
    </CardText>
    <Anchor
-    to="/home/2000Mh16esy/MT-02/pages/home.vue"
+    to="/home"
     button
     color="primary"
    >
